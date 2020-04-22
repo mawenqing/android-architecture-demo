@@ -1,0 +1,2 @@
+include ':timeline-presentation', ':timeline-core', ':timeline-data', ':app'
+rootProject.name='mercari'
