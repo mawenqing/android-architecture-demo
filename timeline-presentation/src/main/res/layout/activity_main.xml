@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mercari.timeline.tabhost.TimelineTabHostActivity">
+    tools:context="com.timeline.tabhost.TimelineTabHostActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -15,7 +15,6 @@
             android:id="@+id/title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableStart="@mipmap/icon_launcher"
             android:drawablePadding="4dp"
             android:gravity="center"
             android:minHeight="?actionBarSize"
@@ -46,5 +45,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@drawable/ic_camera" />
+        app:srcCompat="@drawable/ic_local_see_white_24dp" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
