@@ -4,7 +4,7 @@
         "name":"name1",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     },
@@ -13,7 +13,7 @@
         "name":"name2",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     },
@@ -22,7 +22,7 @@
         "name":"name3",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     },
@@ -31,7 +31,7 @@
         "name":"name4",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     },
@@ -40,7 +40,7 @@
         "name":"name5",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     },
@@ -49,7 +49,7 @@
         "name":"name6",
 	"status":"sold_out",
 	"num_likes":66,
-	"nums_comments":78,
+	"num_comments":78,
 	"price":100,
         "photo":"https://mawenqing.github.io/android-architecture-demo/photo.png"
     }
